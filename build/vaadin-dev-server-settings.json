@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/roopeforsten/Developer/demo/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/roopeforsten/Developer/demo/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/roopeforsten/Developer/demo/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/roopeforsten/Developer/demo/build/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/roopeforsten/Developer/demo/build/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/roopeforsten/Developer/demo/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/roopeforsten/Developer/demo/build/dev-bundle/config",
+  "jarResourcesFolder": "/Users/roopeforsten/Developer/demo/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/roopeforsten/Developer/demo/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

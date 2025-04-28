@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/roopeforsten/Developer/demo",
+  "node.version": "v22.14.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/Users/roopeforsten/Developer/demo/./src/main/frontend",
+  "connect.javaSourceFolder": "/Users/roopeforsten/Developer/demo/src/main/java",
+  "javaResourceFolder": "/Users/roopeforsten/Developer/demo/src/main/resources",
+  "connect.applicationProperties": "/Users/roopeforsten/Developer/demo/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/roopeforsten/Developer/demo/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/roopeforsten/Developer/demo/./src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}
